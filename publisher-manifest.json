@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c0d56d5ebceb0d9c033dd904",
+  "owner": "mumdvvmp",
+  "repo": "page-bd3db61c82eeb9f3011d17e9",
+  "title": "奶油(CreamData)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bd3db61c82eeb9f3011d17e9",
+      "a": "奶油(CreamData)",
+      "b": "机场官网线路发布页",
+      "entity": "奶油(CreamData)",
+      "brand": "奶油(CreamData)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "426bb9751487f3d2c4619d4f6786abeeb3125b2b1879352755b88eaf295e537b",
+      "content": {
+        "primary_entity": "奶油(CreamData)",
+        "keyword1": "奶油(CreamData)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付与年付均可选择。基础版每月100GB流量并支持3台设备，旗舰版每月300GB、支持5台设备且配备IPLC专线优化，团队版每月1000GB、支持20台设备并可定制路由。按年付更划算，例如旗舰版年付仅需¥350。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "奶油(CreamData)面向需要稳定跨境线路的用户，提供基础版、旗舰版和团队版三档套餐，覆盖单人轻量使用到团队多设备场景。各档套餐在流量、在线设备数和节点类型上有所区别，可按实际使用强度选择月付或年付。",
+          "AI_VISUAL_TITLE": "选对套餐，设备随心连",
+          "AI_HIGHLIGHT_1": "基础版月付¥15，含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版IPLC专线，游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版20台设备，支持定制路由",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "根据设备数量、月流量和节点需求匹配合适档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "3台设备选基础版，5台选旗舰版，20台选团队版。",
+          "AI_FEATURE_TITLE_2": "按流量定周期",
+          "AI_FEATURE_TEXT_2": "100GB轻量使用，300GB日常主力，1000GB适合团队。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "旗舰版年付¥350，比月付累计节省约¥70。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统有对应的订阅客户端，按设备类型选择并导入订阅地址即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，可按设备数与流量需求横向比较。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确认使用设备与流量需求，再完成订阅和客户端配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "依据设备数量与月流量，在基础版、旗舰版和团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对客户端支持的系统版本与设备数量限制，确认订阅周期。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端文档，导入订阅地址并完成基础连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奶油(CreamData)的套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在套餐周期结束后更换档位，升级或降级按当期剩余时间折算，具体可在账户内操作。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版3台、旗舰版5台、团队版20台同时在线，超出数量可能导致连接被挤下线。",
+          "AI_FAQ_QUESTION_3": "月付和年付的流量有区别吗？",
+          "AI_FAQ_ANSWER_3": "同档套餐月付与年付的月流量一致，年付仅调整计费周期，价格更低，如旗舰版年付¥350。",
+          "AI_FAQ_QUESTION_4": "订阅地址导入客户端失败怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认客户端支持的系统版本，再核对订阅地址是否完整复制；仍失败可联系工单支持。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月1000GB流量、支持20台设备，适合多人家用或小型团队共用，并支持定制路由。",
+          "AI_CLOSING_TITLE": "选好套餐，连接更顺手",
+          "AI_CLOSING_TEXT": "根据设备和流量需求选定档位，导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pmtxctx.cn",
+    "host": "pmtxctx.cn"
+  },
+  "file_hashes": {
+    "index.html": "74340697a3aae956f075894871f1569eae4d4ae6d4a4d3d0e04ac349bbc4c0b4",
+    "sitemap.xml": "6707980c868c51715ff7a110435c8193b8c897b5cc230e1c135ac42c111c023d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "234e5a13e0845d9cc8689c1872de5f9a1dba9dc7bc4021cb745bbc8efbaef9ba",
+    "robots.txt": "4026454466f4911cd8b2f70b171154150112aa405fa81fac4c48e06162891d5f",
+    "e2e5501b83779ef0b1f405a1e1512eee.txt": "9e10b47f24ff6b2bbc864a015d09f0d6b44e9f2befebba4252481e3c46078943"
+  },
+  "revision": "062ecbdf42b789792454fae03072805d0c66459db4162fe5b77af971064f01a5"
+}
